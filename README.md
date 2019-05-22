@@ -5,7 +5,6 @@ http://wesleyoliveiratestes01.epizy.com/
 // Informa caso usuario não exista ou esteja errado/em branco
 // Em caso de cadastro informa se usuario já é cadastrado
 // ID Unico para cada usuario
-// Valida usuario em branco
 // Proteção contra sql-injection
 
 // CSS baseado no framework bulma.io por ser simples e intuitivo.
